@@ -1,5 +1,6 @@
 index.html
 README.md
 /Import/img/*_backup
-/Import/img/*.db
-/Import/index.html_old
+Thumbs.db
+index.html_old
+.DS_Store
